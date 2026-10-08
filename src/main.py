@@ -14,6 +14,7 @@ print("Subtraction:", subtract(45, 32))
 
 print("Multiplication:", multiply(10, 5))
 
+# Handle division by zero error
 try:
     print("Division:", divide(10, 2))
     print("Division:", divide(10, 0))
