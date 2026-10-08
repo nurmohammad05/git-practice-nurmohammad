@@ -1,7 +1,24 @@
-# Project Title: Git & GitHub Practical Assignment
+## Student Information
 
-## Name: Nur Mohammad
+**Name:** Nur Mohammad
 
-## What this project does:
-This project is to practice Git & GitHub with some basic commands eg. commit, branch, push, merge etc.
+## Project Description
 
+This project is created to practice Git and GitHub.
+
+It demonstrates:
+
+- Git repository initialization
+- Creating commits
+- Working with branches
+- Merging branches
+- Using GitHub
+- Basic Python programming
+- Calculator functions
+
+## Features
+
+- Display the student's name
+- Display the current date
+- Add two numbers
+- Subtract two numbers
