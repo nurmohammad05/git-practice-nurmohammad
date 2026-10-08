@@ -1,6 +1,13 @@
 # Print name
-print("Nur Mohammad")
+print("Name: Nur Mohammad")
 
 # Print today’s date
 from datetime import date
-print(date.today())
+print("Today's date: ", date.today())
+
+# calling utility functions 
+from utils import add, subtract
+
+print(add(5,6))
+
+print(subtract(45, 32))
